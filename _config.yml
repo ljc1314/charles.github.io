@@ -17,8 +17,8 @@ favicon: favicon.ico
 
 repository: charles/charles.github.io
 github_url: https://github.com/charles
-url: http://www.charles.com
-enforce_ssl: charles.com
+url: https://charles.github.io
+#enforce_ssl: charles.com
 
 ## Gem
 plugins:
